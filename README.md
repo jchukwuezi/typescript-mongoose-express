@@ -1,5 +1,6 @@
 This is a boilerplate I use for building 
-Packages:
+
+It uses:
 - cors
 - dotenv
 - mongoose
